@@ -1,0 +1,5 @@
+Un importante banco proveniente de portugal realiza una campaña mediante llamadas telefónicas con el propósito de que sus clientes contraten un deposito a plazo, sin embargo, los resultados no fueron los esperados por una gran diferencia.
+
+El principal objetivo de este proyecto es analizar los resultados de los clientes a lo largo de aproximadamente 3 años (3 periodos). Adicionalmente llegar a un posible causante de esta significativa diferencia entre quienes aceptaron y quienes no.
+
+Finalmente se aplicará un modelo de predicción y se hará una propuesta para que dicha campaña obtenga mejores resultados en torno a los clientes.
